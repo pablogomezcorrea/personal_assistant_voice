@@ -10,3 +10,7 @@ Packages:
 Token
     
     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
+
+Vosk
+
+    Baixar models do vosk para sintetização de voz na lingua corrente
