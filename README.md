@@ -9,7 +9,7 @@ Packages:
 
 Token
     
-    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
+    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
 
 Vosk
 
