@@ -7,9 +7,6 @@ Packages:
     pip install pyaudio
     pip install vosk
 
-Token
-    
-    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
 
 Vosk
 
